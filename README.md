@@ -14,5 +14,9 @@ A to-do list where you can add, cross out and remove items.
 
 ## Author
 
-**Enora Lecuyer** 
+Enora Lecuyer
+
+## License
+
+MIT License
 
